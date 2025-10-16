@@ -1,1 +1,1 @@
-console.log('Happy developing ✨')
+console.log("OmniFood website loaded!✨")
