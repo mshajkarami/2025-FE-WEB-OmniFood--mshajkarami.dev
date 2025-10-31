@@ -1,6 +1,5 @@
 # 🚀 **[2025-FE-WEB-OmniFood--mshajkarami.dev]**
 
-> **[Role / Type] | [Main Tech / Stack Name]**  
 > _by [mshajkarami.dev](https://mshajkarami.dev)_
 
 ---
@@ -107,3 +106,4 @@ Unless otherwise specified, it is released under an open-source license (see `LI
 
 > _“Code is temporary, but structure is forever.”_  
 > — **mshajkarami.dev**
+
