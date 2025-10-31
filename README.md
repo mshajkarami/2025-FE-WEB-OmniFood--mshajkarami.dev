@@ -1,120 +1,88 @@
-# 🚀 **2025-FE-WEB-OmniFood--mshajkarami.dev**
+# 🚀 **[2025-FE-WEB-OmniFood--mshajkarami.dev]**
 
-> **Full Stack Developer | Android & Ktor Projects**  
+> **[Role / Type] | [Main Tech / Stack Name]**  
 > _by [mshajkarami.dev](https://mshajkarami.dev)_
 
 ---
 
 ## 🧠 Overview
 
-**[2025-FE-WEB-OmniFood--mshajkarami.dev]** is a **[FE]** project built using **[WEB]** as the core technology stack.  
-Its primary goal is to _[concise description of what it does or solves]_.
+**OmniFood** is a **frontend web project** built using **HTML5, CSS3, and Vanilla JavaScript (ES6+)**.  
+Its main purpose is to demonstrate **modern responsive web design, layout systems (Grid + Flexbox), and semantic HTML structure** through a fully functional **landing page** for a fictional AI-powered food delivery startup — *OmniFood*.
 
-> 🧩 Designed with clean architecture, modularity, and scalability in mind.
 
----
-
-## 🗂 Repository Naming Convention
-
-**Format:**
-
-```
-[Year]-[Scope]-[MainTech]-[ProjectName]--mshajkarami.dev
-```
-
-**Example:**
-
-```
-2025-FS-KT-SimBox--mshajkarami.dev
-```
-
-| Segment             | Description                       | Example         |
-| ------------------- | --------------------------------- | --------------- |
-| `2025`              | Project creation year             | 2025            |
-| `FS`                | Scope (Full Stack, Android, etc.) | FS              |
-| `KT`                | Main Tech (Kotlin, Java, etc.)    | KT              |
-| `SimBox`            | Project Name                      | SimBox          |
-| `--mshajkarami.dev` | Personal Brand Domain             | mshajkarami.dev |
-
----
-
-## 🧱 Package Naming Convention
-
-**Format:**
-
-```
-dev.mshajkarami.[scope].[tech].[project]
-```
-
-**Example:**
-
-```
-dev.mshajkarami.fs.kt.simbox
-```
-
-| Segment           | Description                      | Example         |
-| ----------------- | -------------------------------- | --------------- |
-| `dev.mshajkarami` | Root personal domain             | dev.mshajkarami |
-| `[scope]`         | Project scope (fs, an, be, etc.) | fs              |
-| `[tech]`          | Tech identifier (kt, jv, etc.)   | kt              |
-| `[project]`       | Project name                     | simbox          |
+> 🧩 Built with a focus on clean architecture, scalability, and real-world development practices.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Category      | Technologies                      |
-| ------------- | --------------------------------- |
-| **Language**  | [Kotlin / Java / etc.]            |
-| **Framework** | [Ktor / Android / Compose / etc.] |
-| **Database**  | [SQLite / PostgreSQL / etc.]      |
-| **Tools**     | [Gradle, Git, Hilt / Koin, etc.]  |
-
-> 🧩 Additional tools or libraries can be listed here per project.
-
----
-
-## 🧭 Scope Codes
-
-| Code | Scope                           |
-| ---- | ------------------------------- |
-| AN   | Android Application             |
-| FS   | Full Stack Project              |
-| BE   | Backend (Server)                |
-| FE   | Frontend (Web/UI)               |
-| ML   | Machine Learning                |
-| AI   | Artificial Intelligence         |
-| DS   | Data Science                    |
-| IO   | IoT / Embedded Systems          |
-| LIB  | Library / SDK                   |
-| EX   | Experimental / Research Project |
+| Category          | Technologies |
+| ----------------- | ------------- |
+| **Language**      | HTML5, CSS3, JavaScript (ES6+) |
+| **Framework / Tools** | Pure CSS, Ionicons, Prettier, Git, VS Code |
+| **Architecture**  | Component-based UI, Mobile-first design |
+| **Version Control** | Git + GitHub |
+| **Deployment**    | GitHub Pages |
 
 ---
 
-## 🧰 Tech Codes
+## 💡 Key Features
 
-| Code | Technology |
-| ---- | ---------- |
-| KT   | Kotlin     |
-| JV   | Java       |
-| JS   | JavaScript |
-| TS   | TypeScript |
-| PY   | Python     |
-| GO   | GoLang     |
-| RS   | Rust       |
-| CPP  | C++        |
-| SW   | Swift      |
-| CS   | C#         |
+- ✅ Fully responsive layout for mobile, tablet, and desktop  
+- 🎨 Modern UI built with CSS Grid and Flexbox  
+- ⚡ Smooth scrolling and sticky navigation  
+- 🧭 Animated sections using Intersection Observer API  
+- 📦 Modular, clean, and scalable CSS structure  
+- 🌍 Deployed via GitHub Pages with live demo  
 
 ---
 
-## 💡 Example Projects
+## 📂 Project Structure
+2025-FE-WEB-OmniFood--mshajkarami.dev/
+│
+├── index.html
+├── css/
+│ ├── general.css
+│ ├── style.css
+│ └── queries.css
+├── js/
+│ └── script.js
+├── img/
+│ └── (optimized images and icons)
+│── LICENSE.txt
+└── README.md
 
-| Repository                              | Package                           | Description                                         |
-| --------------------------------------- | --------------------------------- | --------------------------------------------------- |
-| `2025-FS-KT-SimBox--mshajkarami.dev`    | `dev.mshajkarami.fs.kt.simbox`    | Android + Ktor project for managing simulation data |
-| `2025-ML-KT-FaceNet--mshajkarami.dev`   | `dev.mshajkarami.ml.kt.facenet`   | ML face verification model using Kotlin             |
-| `2025-AN-KT-TheMovies--mshajkarami.dev` | `dev.mshajkarami.an.kt.themovies` | Android app using Paging + Clean Architecture       |
+
+> 🧠 Organized for clarity, scalability, and maintainability.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[View Project Demo](https://mshajkarami.github.io/2025-FE-WEB-OmniFood--mshajkarami.dev/)**  
+💾 **[View Source Code on GitHub](https://github.com/mshajkarami/2025-FE-WEB-OmniFood--mshajkarami.dev)**
+
+---
+
+## 🧩 Implementation Highlights
+
+| Area | Description |
+| ---- | ------------ |
+| **UI/UX Design** | Minimalistic layout with consistent spacing, colors, and typography |
+| **Responsiveness** | Built mobile-first with flexible breakpoints |
+| **Code Quality** | Organized into modules, formatted with Prettier |
+| **Accessibility (a11y)** | Semantic HTML tags, alt texts, ARIA roles |
+| **Performance** | Optimized images and minimal JavaScript footprint |
+
+---
+
+## 🧱 Future Improvements
+
+- [ ] Integrate a working form backend (e.g., Firebase / Formspree)  
+- [ ] Add theme switch (dark/light mode)  
+- [ ] Optimize for Lighthouse performance score (100%)  
+- [ ] Add animations with CSS keyframes or GSAP  
 
 ---
 
@@ -134,29 +102,6 @@ dev.mshajkarami.fs.kt.simbox
 
 This project is part of the **mshajkarami.dev** ecosystem.  
 Unless otherwise specified, it is released under an open-source license (see `LICENSE` file).
-
----
-
-## 🏁 Versioning Guidelines
-
-| Type            | Example                                     |
-| --------------- | ------------------------------------------- |
-| Project Version | `v1.0.0`                                    |
-| Git Tag         | `v1.0.0-rc1`                                |
-| Commit Prefix   | `feat:`, `fix:`, `refactor:`, `docs:`, etc. |
-
----
-
-## 🧩 How to Use This Template
-
-1. Copy this file as your `README.md`.
-2. Replace placeholders:
-   - `[OmniFood]`
-   - `[FE]`
-   - `[WEB]`
-   - `[A test Project for runing first Website Project ]`
-3. Update `Tech Stack` and `Examples`.
-4. Commit and push.
 
 ---
 
